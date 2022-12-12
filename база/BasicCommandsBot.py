@@ -12,7 +12,7 @@ import aiohttp
 
 channelIDS= 847202767772188713
 channelIDS2= 847212309494366278
-TOKEN= 'OTk4OTg1NTg3Nzc0MTk3ODIx.GErhNk.BY4bXU_jj8vzt_1dzae3qdHyBnxeAgDxfOxzvg'
+TOKEN= ' '
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix = '+', intents=intents)
 bot.remove_command( 'help' )
