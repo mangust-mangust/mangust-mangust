@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
-TOKEN= 'OTk4OTg1NTg3Nzc0MTk3ODIx.GErhNk.BY4bXU_jj8vzt_1dzae3qdHyBnxeAgDxfOxzvg'
+TOKEN= ' '
 ban_words = ['пиздец','блять','ахуеть','ахуел','ебали','пизда','хуйня','бля','Пиздец', 'нихуя', 'Блять','Ахуеть','Ахуел','Ебали','Пизда','Хуйня','Бля','Нихуя']
 
 def simplify_word(word):
