@@ -3,7 +3,7 @@ import os
 import discord
 
 bot = discord.Client()
-TOKEN= 'OTk4OTg1NTg3Nzc0MTk3ODIx.GErhNk.BY4bXU_jj8vzt_1dzae3qdHyBnxeAgDxfOxzvg'
+TOKEN= ' '
 
 #os.chdir('/home/peoples/discord-bot')
 
